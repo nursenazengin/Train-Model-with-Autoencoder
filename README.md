@@ -1,4 +1,5 @@
 Anomaly Detection with Autoencoder 
+
 Bu proje, yalnızca arızasız (normal) verilerle eğitilen bir autoencoder modeli ile anomalileri tespit etmek amacıyla geliştirilmiştir.
 
 Proje Özeti
