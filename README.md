@@ -3,6 +3,7 @@ Anomaly Detection with Autoencoder
 Bu proje, yalnızca arızasız (normal) verilerle eğitilen bir autoencoder modeli ile anomalileri tespit etmek amacıyla geliştirilmiştir.
 
 Proje Özeti
+
 Model yalnızca arızasız (normal) örnekler içeren bir veri kümesiyle eğitilmiştir. Bu sayede sistemin normal davranışı öğrenilmiş olur.
 
 Autoencoder:
